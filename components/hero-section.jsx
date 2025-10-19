@@ -9,7 +9,7 @@ export default function HeroSection() {
       {/* Hero Image */}
       <div className="absolute inset-0">
         <img
-          href="https://www.pexels.com/photo/three-men-standing-near-window-1516440/"
+          src="/banner.jpg"
           alt="Graduation and learning"
           className="w-full h-full object-cover opacity-60"
         />
